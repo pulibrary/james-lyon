@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: exhibit
 title:  ""
-permalink: /exhibit/1759
 ---
 
 James Lyon’s music for the three odes written by Rev. Samuel Davies (1723-1761) is currently lost. The question that remains is why was the small town of Princeton in 1759 the place for such a pioneering musical event? 

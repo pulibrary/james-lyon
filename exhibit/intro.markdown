@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: exhibit
 title:  ""
-permalink: /exhibit/intro
 ---
 
 This online essay-exhibition is a presentation of research conducted at the RBSC at Princeton University on the early compositions of James Lyon (1735-1794) and the musical culture of mid-18th century colonial America. 

@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: exhibit
 title:  ""
-permalink: /exhibit/1762
 ---
 
 This section looks at the authenticity of several compositions that have been attributed to Lyon from 1762 and 1763, and the development of the commencement entertainments in Princeton and Philadelphia in the 1760s.

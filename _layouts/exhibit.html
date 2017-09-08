@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <aside>
+  	<nav>
+  		<ul>
+  			<li><a href="{{ "/exhibit/intro" | relative_url }}">Introduction</a></li>
+  			<li><a href="{{ "/exhibit/1759" | relative_url }}">1759-1760</a></li>
+  			<li><a href="{{ "/exhibit/1761" | relative_url }}">Urania 1761</a></li>
+  			<li><a href="{{ "/exhibit/1762" | relative_url }}">1762-1763</a></li>
+  		</ul>
+  	</nav>
+  </aside>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>

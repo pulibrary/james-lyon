@@ -4,6 +4,8 @@
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    <img src="/assets/images/sky.jpg" alt="">
   
     {% if page_paths %}
       <nav class="site-nav">
@@ -20,10 +22,10 @@
 
         <div class="trigger">
           <ul>
-            <li><a href="">Home</a></li>
-            <li><a href="">Exhibit</a></li>
-            <li><a href="">Further Reading</a></li>
-            <li><a href="">Links and Resources</a></li>
+            <li><a href="{{ "/" | relative_url }}">Home</a></li>
+            <li><a href="{{ "/exhibit/intro" | relative_url }}">Exhibit</a></li>
+            <li><a href="{{ "/further-reading" | relative_url }}">Further Reading</a></li>
+            <li><a href="{{ "/links" | relative_url }}">Links and Resources</a></li>
           </ul>
         </div>
       </nav>

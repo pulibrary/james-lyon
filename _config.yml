@@ -16,8 +16,8 @@
 title: "James Lyon: The Search for America's First Composition"
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com 
+baseurl: /jameslyon # the subpath of your site, e.g. /blog
+url: https://rbsc.princeton.edu # the base hostname & protocol for your site, e.g. http://example.com 
 
 # Build settings
 markdown: kramdown
@@ -27,11 +27,7 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-exclude: "tasks/"
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude: [tasks/, Gemfile, Gemfile.lock, README.md]
+sass: 
+  sass_dir: assets/sass
+  style: compressed

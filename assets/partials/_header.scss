@@ -1,0 +1,35 @@
+.site-title {
+    position: relative;
+    font-family: 'Pinyon Script', cursive;
+    font-size: 3rem;
+    padding: 2rem;
+    text-align: center;
+    width: 100%;
+    background: url('/jameslyon/assets/images/GC047_Fisher_Nassau_Hall.jpg.1494014947612.jpg') no-repeat center center;
+    background-size: cover;
+
+    &:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-image: linear-gradient(to bottom, rgba(198, 204, 215, 0.5), rgba(38, 36, 22, 0.43));
+
+        opacity: .6;
+    }
+
+    a {
+        color: $menu-bg-color;
+        position: relative;
+        text-decoration: none;
+        text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+        padding: 2rem;
+    }
+}
+
+.site-header {
+    background: $menu-bg-color;
+    border-bottom: 1px solid $menu-border-color;
+}

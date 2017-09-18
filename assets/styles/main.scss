@@ -1,0 +1,49 @@
+--- 
+# Only the main Sass file needs front matter (the dashes are enough) 
+---
+
+@import "../partials/normalize";
+@import "../partials/typebase";
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+	background-color: #FDFDFD;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: sans-serif;
+}
+
+p {
+	font-family: 'Alegreya', serif;
+}
+
+.wrapper {
+    box-sizing: border-box;
+    padding: 0 2rem;
+    margin: 0 auto;
+    max-width: 1400px;
+}
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+$menu-color: #494f57;
+$menu-bg-color: #f5f4f1;
+$menu-border-color: #e8e6df;
+
+@import "../partials/header";
+@import "../partials/navigation";
+
+.page-heading,
+.post-title {
+	margin: 0;
+}
+
+

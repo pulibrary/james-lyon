@@ -1,0 +1,127 @@
+.site-nav {
+    width: 100%;
+
+    ul {
+        max-width: 1400px;
+        margin: 0 auto;
+        padding: 0 2rem;
+    }
+
+    ul li {
+        list-style: none;
+        display: inline-block;
+
+        @include media-query(600px) {
+            display: block;
+        }
+    }
+
+    ul li a {
+        display: block;
+        text-decoration: none;
+        color: $menu-color;
+        padding: 0.5rem;
+
+        &:hover {
+            color: #9b3111;
+            text-decoration: underline;
+            // border-bottom: 1px solid #9b3111;
+        }
+    }
+
+    .trigger {
+        background: $menu-bg-color;
+    }
+
+    .nav-trigger {
+        display: none;
+    }
+
+    .menu-icon {
+        display: none;
+    }
+
+    @include media-query(600px) {
+        position: absolute;
+        top: 9px; // right: $spacing-unit / 2;
+        // background-color: $background-color;
+        // border: 1px solid $grey-color-light;
+        border-radius: 5px;
+        text-align: right;
+
+        label[for="nav-trigger"] {
+            display: block;
+            float: right;
+            width: 36px;
+            height: 36px;
+            z-index: 2;
+            cursor: pointer;
+        }
+
+        .menu-icon {
+            display: block;
+            float: right;
+            width: 36px;
+            height: 26px;
+            line-height: 0;
+            padding-top: 10px;
+            text-align: center;  
+
+            >svg path {
+            fill: white;
+            }
+        }
+
+        input~.trigger {
+            clear: both;
+            display: none;
+        }
+
+        input:checked~.trigger {
+            display: block;
+            padding-bottom: 5px;
+        }
+
+        .page-link {
+            display: block;
+            padding: 5px 10px;
+
+            &:not(:last-child) {
+                margin-right: 0;
+            }
+            margin-left: 20px;
+        }
+    }
+}
+
+.exhibit-menu {
+    width: calc(100% - 30px);
+
+    & ul {
+        margin: 1.5rem 0 0; // display: flex;
+        list-style: none;
+        padding: 0;
+
+        & a {
+            padding: 0.5rem 1rem;
+            color: $menu-color;
+            display: block;
+            text-decoration: none;
+        }
+
+        li {
+            border-top: 1px solid $menu-border-color; // padding: 1rem;
+            color: $menu-color;
+            display: block; // text-align: center;
+            text-decoration: none;
+
+            &:hover {
+                border-color: #9b3111;
+
+                a {
+                    color: #9b3111;
+                }
+            }
+        }
+    }
+}

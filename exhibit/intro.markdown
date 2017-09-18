@@ -20,16 +20,16 @@ The final section, 1762-1763, takes us back to Princeton where the modest commen
 
 Throughout this geographically and chronologically limited journey, Lyon proves himself to be a slippery character. No manuscripts or sketchbooks are known to currently exist, and many the writings and music that have survived are attributed to Lyon only by careful yet circumstantial deduction. It was common that small essays, poems, and indeed commencement publications, to be published anonymously, and Lyon seems to conform with this trend. The exhibition addresses these issues as they arise. There are still many missing pieces of the puzzle, so readers should contact me directly if they uncover any new evidence or would like to question the content of the exhibition. 
 
-HIS 521: History, Memory and Public History 
+## HIS 521: History, Memory and Public History 
 
 The original impetus for this project came from a graduate seminar taught by Professor Martha Sandweiss and Professor Anthony Grafton at the Department of History at Princeton University in the spring of 2017.  This course explored, among many other things, the methods, approaches, and challenges to public history. I would like to thank both Prof. Sandweiss and Prof. Grafton for their support with this project. 
 
-About the Author
+## About the Author
 
 Christopher Parton is a PhD student in Musicology at Princeton University. He holds music degrees from the Universities of Bristol and Oxford in the United Kingdom. His primary research interest in the subjective function of rhythm in the music of Beethoven. Chris can be contacted by email at cparton@princeton.edu. 
 
 
-Acknowledgements 
+### Acknowledgements 
 
 I would like to thank Gabriel Swift at the Rare Books and Special Collections department at Princeton University Library for his expertise, advice, and support. I would also like to thank Joseph Felcone for his thoughts and advice.  
 

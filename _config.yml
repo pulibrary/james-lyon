@@ -29,5 +29,5 @@ plugins:
 # to override the default setting.
 exclude: [tasks/, Gemfile, Gemfile.lock, README.md]
 sass: 
-  sass_dir: assets/sass
+  sass_dir: assets/partials
   style: compressed

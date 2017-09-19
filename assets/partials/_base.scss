@@ -10,6 +10,11 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Alegreya SC', serif;
 }
 
+.post-content h2:first-of-type,
+h2 + h3 {
+	margin-top: 0;
+}
+
 p {
 	font-family: 'Alegreya', serif;
 }

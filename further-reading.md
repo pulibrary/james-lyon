@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Further Reading
+title: Bibliography
 permalink: /further-reading/
 ---
 
-Image Sources
+## Image Sources
 
-Introduction:
+### Introduction:
 
 1. "An ode on peace / Davies, Samuel, 1723-1761." (2003-0204Q) Manuscripts Division, Department of Rare Books and Special Collections, Princeton University Library. (1760)
 
-1759-1760:
+### 1759-1760:
 
 1. "Samuel Davies (1723–1761), Hon. A.M. 1753, President (1759–61), 1874." D. Egbert, Princeton Portraits, Princeton University Press (Princeton, 1947).
 
@@ -18,11 +18,11 @@ Introduction:
 
 3. "An ode on peace / Davies, Samuel, 1723-1761." (2003-0204Q) Manuscripts Division, Department of Rare Books and Special Collections, Princeton University Library. (1760)
 
-Urania 1761:
+### Urania 1761:
 
 1. Title Page from "Urania : or a choice collection of Psalm-tunes, anthems, and hymns..." (SCA #1700) Benson Collection of Hymnals and Hymnology, Princeton Theological Seminary Library. (Philadelphia, 1761)
 
-2. Frontispiece plate from "The New England Psalm Singer by William Billings 1770." The AAS Collection of Paul Revere. American Antiquarian Society. http://www.americanantiquarian.org/Inventories/Revere/music.htm 
+2. Frontispiece plate from "The New England Psalm Singer by William Billings 1770." The AAS Collection of Paul Revere. American Antiquarian Society. [http://www.americanantiquarian.org/Inventories/Revere/music.htm](http://www.americanantiquarian.org/Inventories/Revere/music.htm) 
 
 3. Page 125 (The Celebrated Verses of Sternhold & Hopkins) from "Urania : or a choice collection of Psalm-tunes, anthems, and hymns..." (SCA #1700) Benson Collection of Hymnals and Hymnology, Princeton Theological Seminary Library. (Philadelphia, 1761)
 
@@ -30,7 +30,7 @@ Urania 1761:
 
 5. Page 29 (Morning Hymn) from "Commonplace book of musick by Joseph Periam." (C0199 no. 17) Manuscripts Division, Department of Rare Books and Special Collections, Princeton University Library. (Princeton, c.1760)
 
-1762-1763:
+### 1762-1763:
 
 1. Title page from "The Military Glory of Great Britain." (2004-0652N) Rare Books Collection, Department of Rare Books and Special Collections, Princeton University Library. (Philadelphia, 1762)
 
@@ -42,25 +42,29 @@ Urania 1761:
 
 5. "A north-west prospect of Nassau Hall with a front view of the President's house in New Jersey." J Fisher, Graphic Arts Collection, Department of Rare Books and Special Collections, Princeton University Library. (1807) (Used as title image.)
 
-Newspaper articles
+---
 
-1759. “Nassau-Hall, September 27, 1759.” New-York Mercury, October 1.
+## Newspaper articles
 
-1760. “On Thursday, the first Instant, the public Commencement…” Pennsylvania Gazette, May 15.
+1759\. “Nassau-Hall, September 27, 1759.” New-York Mercury, October 1.
 
-1760. “Proposals for Printing… .” Pennsylvania Gazette, June 26. [Urania advertisement]
+1760\. “On Thursday, the first Instant, the public Commencement…” Pennsylvania Gazette, May 15.
 
-1760. “Prince Town, Nassau Hall, September 25, 1760.” Pennsylvania Gazette, October 9.
+1760\. “Proposals for Printing… .” Pennsylvania Gazette, June 26. [Urania advertisement]
 
-1761. “On Saturday last the public Commencement…” Pennsylvania Gazette, May 28. 
+1760\. “Prince Town, Nassau Hall, September 25, 1760.” Pennsylvania Gazette, October 9.
 
-1762. “Prince Town,  October 1, 1762.” New-York Mercury, October 18.
+1761\. “On Saturday last the public Commencement…” Pennsylvania Gazette, May 28. 
 
-1762. “Princetown, September 30, 1761.” Pennsylvania Gazette, October 21. 
+1762\. “Prince Town,  October 1, 1762.” New-York Mercury, October 18.
 
-1765. “Prince Town, New-Jersey, September 25.” New-York Mercury, October 14.
+1762\. “Princetown, September 30, 1761.” Pennsylvania Gazette, October 21. 
 
-Cited works
+1765\. “Prince Town, New-Jersey, September 25.” New-York Mercury, October 14.
+
+---
+
+## Cited works
 
 Blair, Samuel. 1764. An Account of the College of New-Jersey. Woodbridge, in New-Jersey: printed by James Parker.
 

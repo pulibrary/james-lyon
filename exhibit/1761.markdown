@@ -1,6 +1,8 @@
 ---
 layout: exhibit
 title:  "Urania 1761"
+categories: exhibit
+tags: 1761
 ---
 
 [urania]: {{ "/assets/images/urania.png" | relative_url }}

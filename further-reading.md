@@ -2,6 +2,7 @@
 layout: page
 title: Bibliography
 permalink: /further-reading/
+categories: bibliography
 ---
 
 ## Image Sources

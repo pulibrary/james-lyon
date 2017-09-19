@@ -23,11 +23,11 @@
 
         <div class="trigger">
           <ul>
-            <li><a href="{{ "/" | relative_url }}">Home</a></li>
-            <li><a href="{{ "/events" | relative_url }}">Related Events</a></li>
-            <li><a href="{{ "/exhibit/intro.html" | relative_url }}">Exhibit</a></li>
-            <li><a href="{{ "/further-reading" | relative_url }}">Further Reading</a></li>
-            <li><a href="{{ "/links" | relative_url }}">Links and Resources</a></li>
+            <li{% if page.categories == 'home' %} class="active"{% endif %}><a href="{{ "/" | relative_url }}">Home</a></li>
+            <li{% if page.categories == 'events' %} class="active"{% endif %}><a href="{{ "/events" | relative_url }}">Related Events</a></li>
+            <li{% if page.categories == 'exhibit' %} class="active"{% endif %}><a href="{{ "/exhibit/intro.html" | relative_url }}">Exhibit</a></li>
+            <li{% if page.categories == 'bibliography' %} class="active"{% endif %}><a href="{{ "/further-reading" | relative_url }}">Further Reading</a></li>
+            <li{% if page.categories == 'links' %} class="active"{% endif %}><a href="{{ "/links" | relative_url }}">Links and Resources</a></li>
           </ul>
         </div>
       </nav>

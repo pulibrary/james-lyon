@@ -2,6 +2,7 @@
 layout: page
 title: Related Events
 permalink: /events/
+categories: events
 ---
 
 [event]: {{ "/assets/images/event.jpg" | relative_url }}

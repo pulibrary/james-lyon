@@ -6,10 +6,10 @@ layout: default
   <aside class="col-xs-12 col-lg-3">
   	<nav class="exhibit-menu">
   		<ul>
-  			<li><a href="{{ "/exhibit/intro.html" | relative_url }}">Introduction</a></li>
-  			<li><a href="{{ "/exhibit/1759.html" | relative_url }}">1759-1760</a></li>
-  			<li><a href="{{ "/exhibit/1761.html" | relative_url }}">Urania 1761</a></li>
-  			<li><a href="{{ "/exhibit/1762.html" | relative_url }}">1762-1763</a></li>
+  			<li{% if page.title == 'Introduction' %} class="active"{% endif %}><a href="{{ "/exhibit/intro.html" | relative_url }}">Introduction</a></li>
+  			<li{% if page.title == '1759 - 1760' %} class="active"{% endif %}><a href="{{ "/exhibit/1759.html" | relative_url }}">1759-1760</a></li>
+  			<li{% if page.title == 'Urania 1761' %} class="active"{% endif %}><a href="{{ "/exhibit/1761.html" | relative_url }}">Urania 1761</a></li>
+  			<li{% if page.title == '1762 - 1763' %} class="active"{% endif %}><a href="{{ "/exhibit/1762.html" | relative_url }}">1762-1763</a></li>
   		</ul>
   	</nav>
   </aside>

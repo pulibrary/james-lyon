@@ -1,6 +1,7 @@
 ---
 layout: exhibit
 title:  "1759 - 1760"
+categories: exhibit
 ---
 
 [davies]: {{ "/assets/images/davies.jpg" | relative_url }}

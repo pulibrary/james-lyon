@@ -1,6 +1,8 @@
 ---
 layout: exhibit
 title:  "1762 - 1763"
+categories: exhibit
+tags: 1762
 ---
 
 [military_glory]: {{ "/assets/images/glory.jpg" | relative_url }}

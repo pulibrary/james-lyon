@@ -1,6 +1,8 @@
 ---
 layout: exhibit
 title:  "Introduction"
+categories: exhibit
+tags: intro
 ---
 
 [peace]: {{ "/assets/images/peace.jpg" | relative_url }}

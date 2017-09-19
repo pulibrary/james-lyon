@@ -28,6 +28,11 @@
         }
     }
 
+    ul li.active a {
+            color: $menu-hover-color;
+            text-decoration: none;
+        }
+
     .trigger {
         background: $menu-bg-color;
     }
@@ -114,7 +119,8 @@
             display: block; // text-align: center;
             text-decoration: none;
 
-            &:hover {
+            &:hover,
+            &.active {
                 border-color: #9b3111;
 
                 a {

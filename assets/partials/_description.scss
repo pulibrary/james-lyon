@@ -1,0 +1,5 @@
+.exhibit p:first-of-type {
+    background: $menu-bg-color;
+    border-left: 5px solid $menu-hover-color;
+    padding: 1rem 1.5rem;
+}

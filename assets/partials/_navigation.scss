@@ -1,6 +1,6 @@
 .site-nav {
     width: 100%;
-    
+
     ul {
         max-width: 1400px;
         margin: 0 auto;
@@ -24,8 +24,7 @@
 
         &:hover {
             color: #9b3111;
-            text-decoration: underline;
-            // border-bottom: 1px solid #9b3111;
+            text-decoration: underline; // border-bottom: 1px solid #9b3111;
         }
     }
 
@@ -43,9 +42,8 @@
 
     @include media-query(600px) {
         position: absolute;
-        top: 9px; 
-        right: 0;
-        // background-color: $background-color;
+        top: 9px;
+        right: 0; // background-color: $background-color;
         // border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
@@ -66,10 +64,10 @@
             height: 26px;
             line-height: 0;
             padding-top: 10px;
-            text-align: center;  
+            text-align: center;
 
             >svg path {
-            fill: white;
+                fill: white;
             }
         }
 
@@ -124,5 +122,19 @@
                 }
             }
         }
+    }
+}
+
+p a {
+    text-decoration: none;
+    border-bottom: 1px solid $menu-border-color;
+    color: saturate($menu-hover-color, 20%);
+
+    &:hover,
+    &:active,
+    &:focus {
+        border-color: darken($menu-hover-color, 25);
+        background: $menu-bg-color;
+        color: saturate($menu-hover-color, 20%);
     }
 }

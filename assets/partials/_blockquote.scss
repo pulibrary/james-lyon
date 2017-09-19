@@ -1,0 +1,54 @@
+.exhibit blockquote {
+    width: 100%;
+    margin-left: 0;
+    padding: 36px 50px;
+    @include media-query-min(600px) {
+        margin-left: -50px;
+    }
+    position: relative;
+    background: $menu-hover-color;
+    margin-bottom: 28px;
+    @include media-query-min(600px) {
+        &::before,
+        &::after {
+            top: 0;
+            bottom: 0;
+            width: 25px;
+            content: '';
+            position: absolute;
+            background: $menu-hover-color;
+        }
+    }
+    &::before {
+        right: 100%;
+    }
+    &::after {
+        left: 100%;
+    }
+    p:first-of-type {
+        background: initial;
+        color: white;
+        border: initial;
+        padding: initial;
+        margin: 0;
+        font-size: 1.5em;
+        &::before {
+            top: 0;
+            left: 16px;
+            color: white;
+            content: '“';
+            font-size: 3em;
+            position: absolute;
+            text-shadow: -3px 0 $menu-hover-color;
+        }
+        &::after {
+            right: 16px;
+            color: white;
+            content: '”';
+            bottom: -32px;
+            font-size: 3em;
+            position: absolute;
+            text-shadow: 3px 0 $menu-hover-color;
+        }
+    }
+}

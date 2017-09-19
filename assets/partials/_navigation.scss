@@ -1,6 +1,6 @@
 .site-nav {
     width: 100%;
-
+    
     ul {
         max-width: 1400px;
         margin: 0 auto;
@@ -43,7 +43,8 @@
 
     @include media-query(600px) {
         position: absolute;
-        top: 9px; // right: $spacing-unit / 2;
+        top: 9px; 
+        right: 0;
         // background-color: $background-color;
         // border: 1px solid $grey-color-light;
         border-radius: 5px;

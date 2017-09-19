@@ -2,10 +2,10 @@
     position: relative;
     font-family: 'Pinyon Script', cursive;
     font-size: 3rem;
-    padding: 2rem;
+    padding: 2rem 1rem;
     text-align: center;
     width: 100%;
-    background: url('/jameslyon/assets/images/GC047_Fisher_Nassau_Hall.jpg.1494014947612.jpg') no-repeat center center;
+    background: url('/jameslyon/assets/images/nassau.jpg') no-repeat center center;
     background-size: cover;
 
     &:before {
@@ -32,4 +32,8 @@
 .site-header {
     background: $menu-bg-color;
     border-bottom: 1px solid $menu-border-color;
+
+    .row {
+    	margin: 0;
+    }
 }

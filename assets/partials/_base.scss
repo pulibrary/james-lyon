@@ -4,6 +4,14 @@
 
 body {
 	background-color: #FDFDFD;
+	display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+	flex: 1;
+	padding-bottom: 2rem;
 }
 
 h1, h2, h3, h4, h5, h6 {

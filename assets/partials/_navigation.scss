@@ -22,15 +22,24 @@
         color: $menu-color;
         padding: 0.5rem;
 
+
         &:hover {
-            color: #9b3111;
-            text-decoration: underline; // border-bottom: 1px solid #9b3111;
+            color: $menu-hover-color;
+            text-decoration: none;
+  background-image: linear-gradient(to right, currentColor 0%, currentColor 100%);
+  background-repeat: repeat-x;
+  background-position: 0 100%;
+  background-size: 100% 3px;
         }
     }
 
     ul li.active a {
-            color: $menu-hover-color;
+            color: #111;
             text-decoration: none;
+              background-image: linear-gradient(to right, currentColor 0%, currentColor 100%);
+              background-repeat: repeat-x;
+              background-position: 0 100%;
+              background-size: 100% 3px;
         }
 
     .trigger {
@@ -121,16 +130,17 @@
 
             &:hover,
             &.active {
-                border-color: #9b3111;
+                border-color: #111;
 
                 a {
-                    color: #9b3111;
+                    color: #111;
                 }
             }
         }
     }
 }
 
+small a,
 h2 a,
 p a {
     text-decoration: none;

@@ -9,7 +9,7 @@ tags: intro
 
 This online essay-exhibition is a presentation of research conducted at the RBSC at Princeton University on the early compositions of James Lyon (1735-1794) and the musical culture of mid-18th century colonial America. 
 
-![Ode on Peace][peace]{: .left }
+![An ode on peace / Davies, Samuel, 1723-1761.][peace]{: .left }
 
 {:.exhibit-drop-cap}
 On 26th September 1759, the graduating class of the College of New Jersey (now Princeton University) were treated to a rather novel entertainment. No doubt struggling in the usual humidity and heat of a late-summer New Jersey day, the seniors (just 18 in total) went about the Latin and English commencement exercises with due skill and propriety. The ceremony then concluded with an “Ode” written by President Rev. Samuel Davies and set to music by their fellow classmate James Lyon (New York Mercury, 1759). Little did they know that they were witnessing a landmark event in the history of American music: arguably the first American composition. 

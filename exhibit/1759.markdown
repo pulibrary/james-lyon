@@ -10,7 +10,7 @@ categories: exhibit
 
 James Lyon’s music for the three odes written by Rev. Samuel Davies (1723-1761) is currently lost. The question that remains is why was the small town of Princeton in 1759 the place for such a pioneering musical event? 
 
-![Samuel Davies portrait][davies]{: .left }
+![Samuel Davies (1723–1761), Hon. A.M. 1753, President (1759–61), 1874.][davies]{: .left }
 
 {:.exhibit-drop-cap}
 Donald D. Egbert, Princeton Portraits, Princeton University Press (Princeton, 1947).Samuel Davies had been a significant contributor to College of New Jersey even before he took up the presidency in 1759. Six years previously, Davies had been on a successful fundraising trip to Great Britain for the building of Nassau Hall. Yet he was initially reluctant at to accept the top job, refusing the offer in 1758. James Lyon was already nearing graduation when Davies finally accepted the presidency, arriving in Princeton in July 1759. It seems that they developed a good relationship early on considering that the 1759 Commencement Ode was written and performed just two months after Davies’ arrival.
@@ -31,7 +31,7 @@ It is better to think of the confluence of James Lyon, Samuel Davies, and the Pr
 
 ## "Cheerful, fearless, and at ease"
 
-![Commencement Anthem by Davies][cheerful]{: .left }
+![Commonplace book: Smith, Jonathan Bayard, 1742-1813.][cheerful]{: .left }
 
 News of college commencements often made it into the major newspapers of Boston, New York and Philadelphia. These articles would include the names of the graduates, the quality of the speakers, and sometimes the names of Colonial leaders who were in attendance. On 1st October 1759, the New-York Mercury not only included a general description of the ceremony, but also the text of Davies’ and Lyon’s ode beginning "Cheerful, fearless, and at ease." Given that the music still has not been found, this newspaper article has been our only source for this Commencement Ode. It is unclear from the article whether or not the text is complete; the final lines quoted are written “While Bernard makes the royal Virtues known, / In all their milder Charms. / Happy, &c. &c.” 
 
@@ -58,7 +58,7 @@ Here the second line is repeated as an echo, but shifted into a trochaic meter, 
 
 ## "Gentle Peace! With Mildest Rays"
 
-![Ode on Peace][peace]{: .right }
+![An ode on peace / Davies, Samuel, 1723-1761.][peace]{: .right }
 
 Lyon’s musical ode must have made a good impression the College trustees and other attendees of the 1759 commencement, since he ended up composing two more commencement odes the following year. These two pieces, an “Ode on Science” and an “Ode on Peace,” also made the papers after their performance on 24th September 1760.  This time Davies’ words were not printed; the presence of Thomas Boone Esq., then Colonial Governor of New Jersey, was far more newsworthy. Nonetheless, the October 9th Pennsylvania Gazette still notes that the “Ode on Science” was performed at the end of the morning exercises, and the “Ode of Peace” concluded the day “to the universal Pleasure and Satisfaction of a numerous Auditory.” 
 

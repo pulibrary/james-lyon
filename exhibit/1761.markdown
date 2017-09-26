@@ -13,8 +13,10 @@ tags: 1761
 
 No study of James Lyon would be complete without mention of his greatest achievement: _Urania_. This section looks at the broader educational and performance contexts around this tunebook. 
 
-![Title Page from “Urania : or a choice collection of Psalm-tunes, anthems, and hymns…”][urania]{: .center }
-<figcaption>Urania (Philadelphia, 1761)</figcaption>
+<figure class="center">
+<img src="{{ "/assets/images/urania.png" | relative_url }}" alt="Title Page from “Urania : or a choice collection of Psalm-tunes, anthems, and hymns…”">
+<figcaption>Title Page from “Urania : or a choice collection of Psalm-tunes, anthems, and hymns…” (SCA #1700) Benson Collection of Hymnals and Hymnology, Princeton Theological Seminary Library. (Philadelphia, 1761)</figcaption>
+</figure>
 
 {:.exhibit-drop-cap}
 After finishing his studies at the College of New Jersey in 1759, Lyon moved south from Princeton to the ever-growing city of Philadelphia. Records of his activities in the city are few and far between, but we know that he must have been busy soon after his arrival. On 22nd May 1760 an advertisement appeared in the Pennsylvania Gazette newspaper looking for subscribers for a “choice collection of Psalm Tunes and Anthems” by none other than James Lyon. The young composer must have accrued a large collection of materials very quickly in order to put such a collection together. By buying a subscription, members of the public would fund a book's publication upfront before receiving their copy. This was probably the most cost effective way of getting such an ambitious project printed. Lyon had received enough subscriptions to print his book in 1761, and by 1762 non-subscribers to _Urania_ were also able to purchase a copy. 
@@ -29,7 +31,10 @@ For a long time the most common type of music making in colonial America (that w
 
 Lining out continued well into the 18th and 19th centuries in many parts of the United States. In the more comfortably settled New England, however, this practice was already dying out in the early decades of the 18th century. This was partly due to what many regarded as a degradation in the quality of congregational singing. In the frequently quoted 1720 pamphlet _The Reasonableness of Regular Singing, or Singing by Note_, Thomas Symmes (1678-1725) sought to address the poor state of congregational singing by advocating instead for ‘Regular Singing’ and musical education in singing schools (Ogasapian, 2007). Regular singing, as opposed to lining out, is closer to how most churches now practice singing. Instead of the tedious call-and-response style repetition of every line, some singers would learn how to read music and thus be able to sing in parts without the need for lining out. Singing schools were organisations run by more experienced singers to teach men and women how to sing in this way. 
 
-![Frontispiece plate from “The New England Psalm Singer by William Billings 1770.”][billings]{: .left }
+<figure class="left">
+<a href="http://www.americanantiquarian.org/Inventories/Revere/music.htm" target="_blank"><img src="{{ "/assets/images/billings.jpg" | relative_url }}" alt="Frontispiece plate from “The New England Psalm Singer by William Billings 1770.”"></a>
+<figcaption>Frontispiece plate from "The New England Psalm Singer by William Billings 1770." The AAS Collection of Paul Revere. American Antiquarian Society.</figcaption>
+</figure>
 
 It is surprising that this would be a controversial change in singing habits. But for many members of the church, clergy and laypersons alike, regular singing was too close to “popery,” i.e. the lavish musical traditions of the Catholic church. For them, anything other than the unison singing of psalms went against scripture (Ogasapian 2007, 5). In New Jersey, the debate around the adoption of regular singing over lining out continued among the Presbyterians well into the 1790s, as Charles Kaufman has documented in his book _Music in New Jersey, 1655-1860_ (1981, 80-1). These objections, however, failed to halt the rapid expansion of singing schools in the mid-18th century, especially in New England. To meet this rising demand for music education, singing manuals started to be written and distributed throughout the colonies. One of the most popular texts of this genre was Thomas Walter’s _The Grounds and Rules of Musick Explained; Or, An Introduction to the Art of Singing by Note_ first published in 1721. As with most musical instruction books, Walter’s _Grounds and Rules_ starts with teaching the rudiments of music and then includes a number of two, three, and four part musical settings of psalms.
 
@@ -51,7 +56,10 @@ The advertisements for these singing schools in Philadelphia are rarely, if ever
 
 Lyon had a bigger audience in mind than Presbyterian churches or even singing schools, which in turn made _Urania_ a far more marketable product (Crawford 2001, 37). It also correlates with the views about music and the church in _The Lawfulness, Excellency, and Advantage of Instrumental Musick_ (1763) that has been attributed to Lyon. In this essay he laments the division of Christian communities propagated by some churches, which is a barrier to the acceptance of more elaborate church music. Many reformed protestant congregations were, after all, still resisting regular singing.  
 
-![Page 125 (The Celebrated Verses of Sternhold & Hopkins) from “Urania : or a choice collection of Psalm-tunes, anthems, and hymns…”][celebrate]{: .right }
+<figure class="right">
+<img src="{{ "/assets/images/celebrate.png" | relative_url }}" alt="Page 125 (The Celebrated Verses of Sternhold & Hopkins) from “Urania : or a choice collection of Psalm-tunes, anthems, and hymns…”">
+<figcaption>Page 125 (The Celebrated Verses of Sternhold & Hopkins) from “Urania : or a choice collection of Psalm-tunes, anthems, and hymns…” (SCA #1700) Benson Collection of Hymnals and Hymnology, Princeton Theological Seminary Library. (Philadelphia, 1761)</figcaption>
+</figure>
 
 _Urania_ also addressed the need for more challenging music, particularly anthems (Daniel 1966, 36). By the 1760s, singing schools were not just serving congregations, but also choirs and musical societies with more accomplished singers (Crawford 1990, 17). Though anthems used sacred texts, their musical realisation was far more elaborate and in line with European musical styles. Lyon included six newly composed tunes in _Urania_, marked with asterisk in the score. These new works included psalm tunes and through-composed hymns as well as anthems. Oscar Sonneck took the asterisks to mean that Lyon was the composer of these pieces, but research done by Richard Crawford (1974) and Nicholas Temperley (1997) has since debunked this assessment. Temperley has also been able to identify other original tunes not indicated by Lyon. Only two of these pieces can now be attributed to Lyon with any certainty: “Two Celebrated Verses by Sternhold & Hopkins” and “The 104th Psalm by Dr. Watts.” The others are either by Francis Hopkinson, Giovanni Palma, William Tuckey or their composer is unknown. Crawford has argued that authorship was not a priority for publishers, certainly before 1760, as it was assumed that such collections would always contain English music (1990, 9). 
 

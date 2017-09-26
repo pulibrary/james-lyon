@@ -8,11 +8,14 @@ tags: intro
 title: "Introduction"
 ---
 
-[peace]: {{ "/assets/images/peace.jpg" | relative_url }}
-
 This online essay-exhibition is a presentation of research conducted at the RBSC at Princeton University on the early compositions of James Lyon (1735-1794) and the musical culture of mid-18th century colonial America. 
 
-![An ode on peace / Davies, Samuel, 1723-1761.][peace]{: .left }
+<figure class="left">
+<a href=".uv" data-featherlight><img src="{{ "/assets/images/peace.jpg" | relative_url }}" alt="An ode on peace / Davies, Samuel, 1723-1761."></a>
+<figcaption>“An ode on peace / Davies, Samuel, 1723-1761.” (2003-0204Q) Manuscripts Division, Department of Rare Books and Special Collections, Princeton University Library. (1760)</figcaption>
+</figure>
+
+<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/uv_config.json" data-uri="/concern/scanned_resources/p1z40pv48z/manifest?locale=en" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-9485,-400,24117,7999" data-rotation="0" style="width:calc(100vw - 200px); height:calc(100vh - 200px); background-color: #000;"></div><script type="text/javascript" id="embedUV" src="https://plum.princeton.edu/universalviewer/dist/uv-2.0.1/lib/embed.js"></script>
 
 {:.exhibit-drop-cap}
 On 26th September 1759, the graduating class of the College of New Jersey (now Princeton University) were treated to a rather novel entertainment. No doubt struggling in the usual humidity and heat of a late-summer New Jersey day, the seniors (just 18 in total) went about the Latin and English commencement exercises with due skill and propriety. The ceremony then concluded with an “Ode” written by President Rev. Samuel Davies and set to music by their fellow classmate James Lyon (New York Mercury, 1759). Little did they know that they were witnessing a landmark event in the history of American music: arguably the first American composition. 

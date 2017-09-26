@@ -26,7 +26,12 @@ Lyon would also have needed very capable voices for the music he wrote in 1762. 
 
 ## "The Military Glory of Great Britain" (1762)
 
-![Title page from “The Military Glory of Great Britain.”][military_glory]{: .left }
+<figure class="left">
+<a href=".uv" data-featherlight><img src="{{ "/assets/images/glory.jpg" | relative_url }}" alt="Title page from “The Military Glory of Great Britain.”"></a>
+<figcaption>Title page from “The Military Glory of Great Britain.” (2004-0652N) Rare Books Collection, Department of Rare Books and Special Collections, Princeton University Library. (Philadelphia, 1762)</figcaption>
+</figure>
+
+<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/uv_config.json" data-uri="/concern/scanned_resources/p73669668s/manifest?locale=en" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-9332,-402,24117,8000" data-rotation="0" style="width:calc(100vw - 200px); height:calc(100vh - 200px); background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://plum.princeton.edu/universalviewer/dist/uv-2.0.1/lib/embed.js"></script>
 
 From 1761, and the quasi-operatic commencement music composed by Francis Hopkinson, the closing entertainments at the Colleges in Princeton and Philadelphia started to go beyond standalone musical performances. They became political dramas with several actors and a series of musical interludes, primarily in the form of choruses. With “The Military Glory of Great Britain” in 1762 the political message, on the face of it, is clear. After an opening chorus proclaiming the power and glory of Great Britain the speakers enter in turn to give a poetic narrative of recent military victories. For the most part it is overblown imperialistic bombast; though, perhaps this is unsurprising given that French and Indian War was essentially over, with Britain the being the clear victors. Perhaps more significantly the new Colonial Governor of New Jersey, Josiah Hardy, was in attendance as the previous Governor had been in 1760. 
 
@@ -34,7 +39,10 @@ The four choruses that accompany this entertainment match the martial and celebr
 
 These fingerprints are particularly noticeable as most are considered faults in traditional counterpoint. (Lyon would have struggled with the current music theory courses at Princeton.) Looking particularly at his two pieces in Urania and the later “Ode to Friendship,” these errors become a recurring pattern. These faults include parallel movements in octaves and fifths, incomplete triads, inconsistent harmonic rhythm, mostly root position triads and chord progressions, irregular and unbalanced phrase lengths, the list could go on. These features, however frequent they might be in Lyon’s music, are hardly surprising given the lack of formal theoretical training available at the time. Instead, what strikes me as particularly Lyon-esque is his sudden use of secondary dominants without ever modulating to a different key. Another distinctive feature is his use of the same cadential formula to end nearly every piece, involving a halving of speed, and a [V6/4 - 5/3 – I] progression with the melody falling from the third degree of the scale by step to the first. 
 
-![Page 8 and 3rd Chorus from “The Military Glory of Great Britain.”][chorus]{: .center }
+<figure class="center">
+<a href=".uv" data-featherlight><img src="{{ "/assets/images/chorus.jpg" | relative_url }}" alt="Page 8 and 3rd Chorus from “The Military Glory of Great Britain.”"></a>
+<figcaption>Page 8 and 3rd Chorus from “The Military Glory of Great Britain.” (2004-0652N) Rare Books Collection, Department of Rare Books and Special Collections, Princeton University Library. (Philadelphia, 1762)</figcaption>
+</figure>
 
 Returning to the choruses of “The Military Glory” having identified these musical fingerprints, the possibility of Lyon’s authorship becomes far more probable. The third chorus, “Propitious Power,” is, for example, riddled with unmodulating secondary dominants. As with all four pieces in 1762, this chorus ends with the same cadential voicing that Lyon almost always uses, half also have his characteristic halving of speed into half-notes. I would like to stress, however, that this type of analysis only serves to address the possibility of Lyon’s authorship. It is not in any sense proof. But until evidence to the contrary appears, we can tentatively attribute this music to Lyon so long as we also acknowledge that it is not fully verified.
 
@@ -42,13 +50,19 @@ Returning to the choruses of “The Military Glory” having identified these mu
 
 ## "A Dialogue on Peace" (1763)
 
-![Inside Cover and Title page from “A Dialogue on Peace.”][dialogue]{: .right }
+<figure class="right">
+<img src="{{ "/assets/images/dialogue.jpg" | relative_url }}" alt="Inside Cover and Title page from “A Dialogue on Peace.”">
+<figcaption>Inside Cover and Title page from “A Dialogue on Peace.” Princeton University Commencement Records (1748-1860), Mudd Manuscript Library, Princeton University. (Philadelphia, 1763)</figcaption>
+</figure>
 
 While some scholars have pointed to Lyon’s probable authorship of the music in “The Military Glory,” very few have included the 1763 commencement entertainment “A Dialogue on Peace” in biographies or discussions of the composer. (One exception is Stephen L. Pinel in _Old Organs of Princeton_, 1989.) This seems rather strange to me given that of the six pieces of music in this publication, four have exactly the same music as the 1762 entertainment. In other words, all four compositions from “The Military Glory” were performed a year later but with new words. At the time of writing I have not found any mention of this in the literature on Lyon and early American music. The text of the Dialogue is an original work attributed to the poet Nathaniel Evans, and is not as bellicose as the commencement entertainment the year before. Most of the music is is sung at the end of the entertainment, unlike in “The Military Glory” that interspersed choruses into the drama. 
 
 It is not so much the repetition of the previous year’s music that is surprising here, but rather the inclusion of two new pieces. Is there any possibility that these are by Lyon? I do not think that the reuse of the 1762 choruses is an indication of Lyon’s authorship. Looking, for example, at the published editions of the commencement entertainments at the College of Pennsylvania in 1766 and 1767, where the “Duet” and “Air” of both years were probably set to the same music, students in this decade had very little qualms about writing new texts to existing tunes. We should look instead at the features of the two new pieces of 1763. And there are some striking differences to what the previous year's graduates had heard. The opening solo and chorus is far more ambitious than any of the 1762 choruses. Instead of being just one repeated chorus, this piece has a number of sections including an extended instrumental introduction, a combination of solo and choral sections, and a section is a different key: these are features that we do not find in 1762. In general the vocal writing is far more polished, with relatively few obvious contrapuntal errors, and a far more regular phrase and harmonic rhythm. The cadences are far more varied, and the use of secondary dominants is more carefully managed. Unlike the choruses of 1762, I am very hesitant to suggest that this is by Lyon. 
 
-![1st Chorus from “A Dialogue on Peace.”][dialogi]{: .center }
+<figure class="center">
+<img src="{{ "/assets/images/dialogi.jpg" | relative_url }}" alt="1st Chorus from “A Dialogue on Peace.”">
+<figcaption>1st Chorus from “A Dialogue on Peace.” Princeton University Commencement Records (1748-1860), Mudd Manuscript Library, Princeton University. (Philadelphia, 1763)</figcaption>
+</figure>
 
 The other new 1763 composition would also be atypical if it were by Lyon. It has a compound time signature unlike pretty much anything else he wrote, and is written in a flat key (F major), which is similarly unusual. It would be easy at this point to assume that piece is also by a different anonymous composer, however there are still some of Lyon's fingerprints. The cadences are particularly typical of Lyon, as is the prevalence of root position triads and irregular phrase lengths. Lyon’s involvement in this 1763 music is somewhat of a mystery. In fact we have no reason to believe that he had anything to do with this commencement despite being in the area. But then who else could have written this music? Maybe there are more musically literate students at the College in the 1760s that we think. Perhaps the anonymous composer (or composers) was inspired by Lyon’s published work. For now I will have to leave these questions unanswered. 
 
@@ -64,5 +78,7 @@ These commencement celebrations were more than ceremonies to administer degrees:
 
 American music scholars have often pointed out that, in terms of musical style, Lyon (and Hopkinson) did not contribute to the development of a distinctly American sound (Temperley 1997, 21). It was not until William Billings (1746-1800) that America would get a composer whose music captured the spirit of early America and the very landscape it was sung in. This is perhaps because Lyon and Hopkinson looked to ape European styles—music that was written for courts and cathedrals—rather than developing a national, American music (Ogasapian 2004, 10). Lyon’s contribution to psalmody in America remains his greatest musical achievement; however, we should not downplay his contribution to the beginnings of a musical college tradition that now reveals so much about the changing political attitudes of a general public and the future leaders of the Patriot cause. 
 
-![Painting by Jonathan Fisher][nassau_hall]{: .center }
- <figcaption>"A north-west prospect of Nassau Hall with a front view of the President's house in New Jersey" by Jonathan Fisher (1807)</figcaption>
+<figure class="center">
+<img src="{{ "/assets/images/nassau.jpg" | relative_url }}" alt="Painting by John Fisher">
+<figcaption>“A north-west prospect of Nassau Hall with a front view of the President’s house in New Jersey.” J Fisher, Graphic Arts Collection, Department of Rare Books and Special Collections, Princeton University Library. (1807) (Used as title image.)</figcaption>
+</figure>

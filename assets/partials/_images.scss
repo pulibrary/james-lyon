@@ -1,12 +1,14 @@
  img,
- iframe {
+ iframe,
+ figure {
      max-width: 100%;
      padding-top: 0.5rem;
  }
 
  @include media-query-min(600px) {
      img,
-     iframe {
+     iframe,
+     figure {
          &.right {
              float: right;
              max-width: 30%;
@@ -42,6 +44,20 @@
      text-align: center;
  }
 
+ figure {
+     margin: 1em 0 0;
+
+     figcaption {
+         font-size: 0.7rem;
+         line-height: 1rem;
+     }
+
+     &.left figcaption,
+     &.right figcaption {
+         text-align: left;
+     }
+ }
+
  figcaption {
      font-size: 0.8rem;
      padding: 0.5rem 0;
@@ -51,4 +67,8 @@
 
  .center {
      text-align: center;
+ }
+
+ .uv {
+     display: none;
  }

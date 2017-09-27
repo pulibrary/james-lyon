@@ -12,11 +12,11 @@ James Lyon’s music for the three odes written by Rev. Samuel Davies (1723-1761
 
 <figure class="left">
 <a href="http://artmuseum.princeton.edu/collections/objects/45141" target="_blank"><img src="{{ "/assets/images/davies.jpg" | relative_url }}" alt="Samuel Davies (1723–1761), Hon. A.M. 1753, President (1759–61), 1874."></a>
-<figcaption>“Samuel Davies (1723–1761), Hon. A.M. 1753, President (1759–61), 1874.” D. Egbert, Princeton Portraits, Princeton University Press (Princeton, 1947).</figcaption>
+<figcaption>“Samuel Davies (1723–1761), Hon. A.M. 1753, President (1759–61), 1874.” Oil on canvas by James Massalon. Princeton University Art Museum.</figcaption>
 </figure>
 
 {:.exhibit-drop-cap}
-Donald D. Egbert, Princeton Portraits, Princeton University Press (Princeton, 1947).Samuel Davies had been a significant contributor to College of New Jersey even before he took up the presidency in 1759. Six years previously, Davies had been on a successful fundraising trip to Great Britain for the building of Nassau Hall. Yet he was initially reluctant at to accept the top job, refusing the offer in 1758. James Lyon was already nearing graduation when Davies finally accepted the presidency, arriving in Princeton in July 1759. It seems that they developed a good relationship early on considering that the 1759 Commencement Ode was written and performed just two months after Davies’ arrival.
+Samuel Davies had been a significant contributor to College of New Jersey even before he took up the presidency in 1759. Six years previously, Davies had been on a successful fundraising trip to Great Britain for the building of Nassau Hall. Yet he was initially reluctant at to accept the top job, refusing the offer in 1758. James Lyon was already nearing graduation when Davies finally accepted the presidency, arriving in Princeton in July 1759. It seems that they developed a good relationship early on considering that the 1759 Commencement Ode was written and performed just two months after Davies’ arrival.
 
 Though we do not know much about Davies’ musical background, there is evidence to suggest that he had a considerable interest in music. The famous Methodist John Wesley recorded his journal that Davies had taught psalm singing to slaves (see Chase 1966, 80), so it is reasonable to assume that he had some ability at singing. Davies’ relationship with Wesley also influenced his enthusiastic embrace of hymn writing and singing, a radical position at the time for a Presbyterian (Silverman 1976, 45). After all, Presbyterians in colonial America, while not completely opposed to music like the Quakers in Pennsylvania, only permitted the unaccompanied singing of psalms in church. 
 
@@ -66,7 +66,7 @@ Here the second line is repeated as an echo, but shifted into a trochaic meter, 
 
 <figure class="right">
 <a href=".uv" data-featherlight><img src="{{ "/assets/images/peace.jpg" | relative_url }}" alt="An ode on peace / Davies, Samuel, 1723-1761."></a>
-<figcaption>“An ode on peace / Davies, Samuel, 1723-1761.” (2003-0204Q) Manuscripts Division, Department of Rare Books and Special Collections, Princeton University Library. (1760)</figcaption>
+<figcaption>“An ode on peace / Davies, Samuel, 1723-1761.” (2003-0204Q) Rare Book Division, Department of Rare Books and Special Collections, Princeton University Library. (1760)</figcaption>
 </figure>
 
 <div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/uv_config.json" data-uri="/concern/scanned_resources/p1z40pv48z/manifest?locale=en" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-9485,-400,24117,7999" data-rotation="0" style="width:calc(100vw - 200px); height:calc(100vh - 200px); background-color: #000;"></div><script type="text/javascript" id="embedUV" src="https://plum.princeton.edu/universalviewer/dist/uv-2.0.1/lib/embed.js"></script>

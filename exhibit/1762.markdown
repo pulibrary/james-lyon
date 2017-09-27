@@ -28,7 +28,7 @@ Lyon would also have needed very capable voices for the music he wrote in 1762. 
 
 <figure class="left">
 <a href=".uv" data-featherlight><img src="{{ "/assets/images/glory.jpg" | relative_url }}" alt="Title page from “The Military Glory of Great Britain.”"></a>
-<figcaption>Title page from “The Military Glory of Great Britain.” (2004-0652N) Rare Books Collection, Department of Rare Books and Special Collections, Princeton University Library. (Philadelphia, 1762)</figcaption>
+<figcaption>Title page from “The Military Glory of Great Britain.” (2004-0652N) Rare Book Collection, Department of Rare Books and Special Collections, Princeton University Library. (Philadelphia, 1762)</figcaption>
 </figure>
 
 <div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/uv_config.json" data-uri="/concern/scanned_resources/p73669668s/manifest?locale=en" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-9332,-402,24117,8000" data-rotation="0" style="width:calc(100vw - 200px); height:calc(100vh - 200px); background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://plum.princeton.edu/universalviewer/dist/uv-2.0.1/lib/embed.js"></script>
@@ -41,7 +41,7 @@ These fingerprints are particularly noticeable as most are considered faults in 
 
 <figure class="center">
 <a href=".uv" data-featherlight><img src="{{ "/assets/images/chorus.jpg" | relative_url }}" alt="Page 8 and 3rd Chorus from “The Military Glory of Great Britain.”"></a>
-<figcaption>Page 8 and 3rd Chorus from “The Military Glory of Great Britain.” (2004-0652N) Rare Books Collection, Department of Rare Books and Special Collections, Princeton University Library. (Philadelphia, 1762)</figcaption>
+<figcaption>Page 8 and 3rd Chorus from “The Military Glory of Great Britain.” (2004-0652N) Rare Book Collection, Department of Rare Books and Special Collections, Princeton University Library. (Philadelphia, 1762)</figcaption>
 </figure>
 
 Returning to the choruses of “The Military Glory” having identified these musical fingerprints, the possibility of Lyon’s authorship becomes far more probable. The third chorus, “Propitious Power,” is, for example, riddled with unmodulating secondary dominants. As with all four pieces in 1762, this chorus ends with the same cadential voicing that Lyon almost always uses, half also have his characteristic halving of speed into half-notes. I would like to stress, however, that this type of analysis only serves to address the possibility of Lyon’s authorship. It is not in any sense proof. But until evidence to the contrary appears, we can tentatively attribute this music to Lyon so long as we also acknowledge that it is not fully verified.

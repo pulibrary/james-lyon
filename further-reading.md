@@ -9,7 +9,7 @@ categories: bibliography
 
 ### Introduction:
 
-1. "An ode on peace / Davies, Samuel, 1723-1761." (2003-0204Q) Manuscripts Division, Department of Rare Books and Special Collections, Princeton University Library. (1760)
+1. "An ode on peace / Davies, Samuel, 1723-1761." (2003-0204Q) Rare Book Division, Department of Rare Books and Special Collections, Princeton University Library. (1760)
 
 ### 1759-1760:
 
@@ -17,7 +17,7 @@ categories: bibliography
 
 2. "Commonplace book: Smith, Jonathan Bayard, 1742-1813." (C0938 no. 481) Manuscripts Division, Department of Rare Books and Special Collections, Princeton University Library. 
 
-3. "An ode on peace / Davies, Samuel, 1723-1761." (2003-0204Q) Manuscripts Division, Department of Rare Books and Special Collections, Princeton University Library. (1760)
+3. "An ode on peace / Davies, Samuel, 1723-1761." (2003-0204Q) Rare Book Division, Department of Rare Books and Special Collections, Princeton University Library. (1760)
 
 ### Urania 1761:
 
@@ -33,9 +33,9 @@ categories: bibliography
 
 ### 1762-1763:
 
-1. Title page from "The Military Glory of Great Britain." (2004-0652N) Rare Books Collection, Department of Rare Books and Special Collections, Princeton University Library. (Philadelphia, 1762)
+1. Title page from "The Military Glory of Great Britain." (2004-0652N) Rare Book Collection, Department of Rare Books and Special Collections, Princeton University Library. (Philadelphia, 1762)
 
-2. Page 8 and 3rd Chorus from "The Military Glory of Great Britain." (2004-0652N) Rare Books Collection, Department of Rare Books and Special Collections, Princeton University Library. (Philadelphia, 1762)
+2. Page 8 and 3rd Chorus from "The Military Glory of Great Britain." (2004-0652N) Rare Book Collection, Department of Rare Books and Special Collections, Princeton University Library. (Philadelphia, 1762)
 
 3. Inside Cover and Title page from "A Dialogue on Peace." Princeton University Commencement Records (1748-1860), Mudd Manuscript Library, Princeton University. (Philadelphia, 1763)
 

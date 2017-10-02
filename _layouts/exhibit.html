@@ -17,6 +17,7 @@ layout: default
   <div class="post-content col-xs-12 col-lg-9">
       <header class="post-header">
         <h1 class="post-title">{{ page.title | escape }}</h1>
+        {% if page.author == 'Christopher J. Parton' %}<span class="post-author">{{ page.author | escape }}</span>{% endif %}
       </header>
     {{ content }}
   </div>

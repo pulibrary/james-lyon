@@ -5,6 +5,98 @@ permalink: /further-reading/
 categories: bibliography
 ---
 
+## Select Bibliography
+
+Crawford, Richard. 2001. America’s Musical Life : A History. New York: Norton.
+>This is a well-researched and well-written overview of American music beginning with Native American music and through to the end of the 20th century. I recommend this as a good starting point to learn more about American musical history. 
+
+McLachlan, James. 1976. Princetonians 1748-1768: A Biographical Dictionary. Princeton: Princeton University Press.
+>This invaluable volume provides a short but carefully researched biography of every College of New Jersey graduate from the foundation of the College to 1768. I recommend this book to anyone undertaking Princeton-related research around these decades. 
+
+Silverman, Kenneth. 1976. A Cultural History of the American Revolution. New York: T. Y. Crowell.
+>Though now a little dated, this book is an interdisciplinary and exhaustively researched look at culture leading up to and during the Revolutionary Wars. Recommended to anyone looking to explore a broader cultural understanding of this tumultuous period of American history.
+
+Winstead, J. Lloyd. 2013. When Colleges Sang : The Story of Singing in American College Life. Tuscaloosa: University of Alabama Press.
+>This is the only study of music specifically at American universities that I am aware of, and it does an excellent job of painting a clear picture of a specific yet divergent musical culture. 
+
+
+
+---
+
+## Newspaper articles
+
+1759\. “Nassau-Hall, September 27, 1759.” New-York Mercury, October 1.
+
+1760\. “On Thursday, the first Instant, the public Commencement…” Pennsylvania Gazette, May 15.
+
+1760\. “Proposals for Printing… .” Pennsylvania Gazette, June 26. [Urania advertisement]
+
+1760\. “Prince Town, Nassau Hall, September 25, 1760.” Pennsylvania Gazette, October 9.
+
+1761\. “Science. An Ode.” New-Hampshire Gazette, May 1.
+
+1761\. “On Saturday last the public Commencement…” Pennsylvania Gazette, May 28. 
+
+1762\. “Prince Town,  October 1, 1762.” New-York Mercury, October 18.
+
+1762\. “Princetown, September 30, 1761.” Pennsylvania Gazette, October 21. 
+
+1765\. “Prince Town, New-Jersey, September 25.” New-York Mercury, October 14.
+
+---
+
+## Cited works
+
+Blair, Samuel. 1764. An Account of the College of New-Jersey. Woodbridge, in New-Jersey: printed by James Parker.
+
+Chase, Gilbert. 1966. America’s Music, from the Pilgrims to the Present. Rev. 2d ed. New York: McGraw-Hill Book Co.
+
+Crawford, Richard. 1974. “Preface.” In Urania : A Choice Collection of Psalm-Tunes, Anthems, and Hymns By James Lyon. Da Capo Press Music Reprint Series. New York: Da Capo Press.
+
+———.1993. The American Musical Landscape. Berkeley: University of California Press.
+
+———. 2001. America’s Musical Life : A History. New York: Norton.
+
+Curnock, Nehemiah (ed.). 1938. The Journal of the Rev. John Wesley, A.M. Volume IV. London: The Epworth Press. 
+
+Daniel, Ralph T. 1966. The Anthem in New England before 1800. Evanston: Northwestern University Press.
+
+Davis, Ronald L. 1980. A History of Music in American Life. Huntington, N.Y.: R. E. Krieger Pub. Co.
+
+Felcone, Joseph J. 1991. New Jersey Broadsides before 1900 : A Checklist of the Joseph J. Felcone Collection. Princeton, N.J.: J.J. Felcone.
+
+Fithian, Philip Vickers. 1900. Philip Vickers Fithian, Journal and Letters, 1767-1774, Student at Princeton College, 1770-72, Tutor at Nomini Hall in Virginia, 1773-74; Edited for the Princeton Historical Association by John Rogers Williams. Princeton, N.J.: The University library.
+
+Kaufman, Charles H. 1981. Music in New Jersey, 1655-1860 : A Study of Musical Activity and Musicians in New Jersey from Its First Settlement to the Civil War. Rutherford, N.J.: Fairleigh Dickinson University Press.
+
+Lyon, James. 1763. The Lawfulness, Excellency, and Advantage of Instrumental Musick. Early American Imprints. First Series ; No. 9424. Philadelphia: William Dunlap.
+
+Ogasapian, John. 2004. Music of the Colonial and Revolutionary Era. London: Greenwood Press.
+
+———. 2007. Church Music in America, 1620-2000. 1st ed. Macon, Ga.: Mercer University Press. 
+
+Pinel, Stephen L. 1989. Old Organs of Princeton. Harrisville, N.H.: Boston Organ Club Chapter of the Organ Historical Society.
+
+Silverman, Kenneth. 1976. A Cultural History of the American Revolution. New York: T. Y. Crowell.
+
+Sonneck, O. G. 1905. Francis Hopkinson, the First American Poet-Composer, (1737-1791) and James Lyon, Patriot, Preacher, Psalmodist (1735-1794); Two Studies in Early American Music. Washington, D.C.: Printed for the author by H. L. McQueen.
+
+———. 1907. Early Concert-Life in America (1731-1800). Leipzig: Breitkopf & Härtel.
+
+Sprague Smith, Carleton. 1980. “Broadsides and Their Music in Colonial America.” In Music in Colonial Massachusetts, 1630-1820 : A Conference Held by the Colonial Society of Massachusetts, May 17 and 18, 1973. Publications of the Colonial Society of Massachusetts ; vol. 53. Charlottesville: Distributed by the University Press of Virginia.
+
+Stiles, Ezra. 1901. The Literary Diary of Ezra Stiles, Ed. under the Authority of the Corporation of Yale University by Franklin Bowditch Dexter. New York: C. Scribner’s Sons.
+
+Taricani, Jo Ann. 1979. “Music in Colonial Philadelphia: Some New Documents.” The Musical Quarterly 65 (2): 185–99.
+
+Temperley, Nicholas. 1997. “First Forty: The Earliest American Compositions.” American Music 15 (1): 1–25. 
+
+Wilder, Craig Steven. 2013. Ebony & Ivy : Race, Slavery, and the Troubled History of America’s Universities. New York, NY: Bloomsbury Press.
+
+Winstead, J. Lloyd. 2013. When Colleges Sang : The Story of Singing in American College Life. Tuscaloosa: University of Alabama Press.
+
+---
+
 ## Image Sources
 
 ### Introduction:
@@ -42,73 +134,3 @@ categories: bibliography
 4. 1st Chorus from "A Dialogue on Peace." Princeton University Commencement Records (1748-1860), Mudd Manuscript Library, Princeton University. (Philadelphia, 1763)
 
 5. "A north-west prospect of Nassau Hall with a front view of the President's house in New Jersey." J Fisher, Graphic Arts Collection, Department of Rare Books and Special Collections, Princeton University Library. (1807) (Used as title image.)
-
----
-
-## Newspaper articles
-
-1759\. “Nassau-Hall, September 27, 1759.” New-York Mercury, October 1.
-
-1760\. “On Thursday, the first Instant, the public Commencement…” Pennsylvania Gazette, May 15.
-
-1760\. “Proposals for Printing… .” Pennsylvania Gazette, June 26. [Urania advertisement]
-
-1760\. “Prince Town, Nassau Hall, September 25, 1760.” Pennsylvania Gazette, October 9.
-
-1761\. “On Saturday last the public Commencement…” Pennsylvania Gazette, May 28. 
-
-1762\. “Prince Town,  October 1, 1762.” New-York Mercury, October 18.
-
-1762\. “Princetown, September 30, 1761.” Pennsylvania Gazette, October 21. 
-
-1765\. “Prince Town, New-Jersey, September 25.” New-York Mercury, October 14.
-
----
-
-## Cited works
-
-Blair, Samuel. 1764. An Account of the College of New-Jersey. Woodbridge, in New-Jersey: printed by James Parker.
-
-Chase, Gilbert. 1966. America’s Music, from the Pilgrims to the Present. Rev. 2d ed. New York: McGraw-Hill Book Co.
-
-Crawford, Richard. 1974. “Preface.” In Urania : A Choice Collection of Psalm-Tunes, Anthems, and Hymns By James Lyon. Da Capo Press Music Reprint Series. New York: Da Capo Press.
-
-———.1993. The American Musical Landscape. Berkeley: University of California Press.
-
-———. 2001. America’s Musical Life : A History. New York: Norton.
-
-Daniel, Ralph T. 1966. The Anthem in New England before 1800. Evanston: Northwestern University Press.
-
-Davis, Ronald L. 1980. A History of Music in American Life. Huntington, N.Y.: R. E. Krieger Pub. Co.
-
-Felcone, Joseph J. 1991. New Jersey Broadsides before 1900 : A Checklist of the Joseph J. Felcone Collection. Princeton, N.J.: J.J. Felcone.
-
-Fithian, Philip Vickers. 1900. Philip Vickers Fithian, Journal and Letters, 1767-1774, Student at Princeton College, 1770-72, Tutor at Nomini Hall in Virginia, 1773-74; Edited for the Princeton Historical Association by John Rogers Williams. Princeton, N.J.: The University library.
-
-Kaufman, Charles H. 1981. Music in New Jersey, 1655-1860 : A Study of Musical Activity and Musicians in New Jersey from Its First Settlement to the Civil War. Rutherford, N.J.: Fairleigh Dickinson University Press.
-
-Lyon, James. 1763. The Lawfulness, Excellency, and Advantage of Instrumental Musick. Early American Imprints. First Series ; No. 9424. Philadelphia: William Dunlap.
-
-Ogasapian, John. 2004. Music of the Colonial and Revolutionary Era. London: Greenwood Press.
-
-———. 2007. Church Music in America, 1620-2000. 1st ed. Macon, Ga.: Mercer University Press. 
-
-Pinel, Stephen L. 1989. Old Organs of Princeton. Harrisville, N.H.: Boston Organ Club Chapter of the Organ Historical Society.
-
-Silverman, Kenneth. 1976. A Cultural History of the American Revolution. New York: T. Y. Crowell.
-
-Sonneck, O. G. 1905. Francis Hopkinson, the First American Poet-Composer, (1737-1791) and James Lyon, Patriot, Preacher, Psalmodist (1735-1794); Two Studies in Early American Music. Washington, D.C.: Printed for the author by H. L. McQueen.
-
-———. 1907. Early Concert-Life in America (1731-1800). Leipzig: Breitkopf & Härtel.
-
-Sprague Smith, Carleton. 1980. “Broadsides and Their Music in Colonial America.” In Music in Colonial Massachusetts, 1630-1820 : A Conference Held by the Colonial Society of Massachusetts, May 17 and 18, 1973. Publications of the Colonial Society of Massachusetts ; vol. 53. Charlottesville: Distributed by the University Press of Virginia.
-
-Stiles, Ezra. 1901. The Literary Diary of Ezra Stiles, Ed. under the Authority of the Corporation of Yale University by Franklin Bowditch Dexter. New York: C. Scribner’s Sons.
-
-Taricani, Jo Ann. 1979. “Music in Colonial Philadelphia: Some New Documents.” The Musical Quarterly 65 (2): 185–99.
-
-Temperley, Nicholas. 1997. “First Forty: The Earliest American Compositions.” American Music 15 (1): 1–25. 
-
-Wilder, Craig Steven. 2013. Ebony & Ivy : Race, Slavery, and the Troubled History of America’s Universities. New York, NY: Bloomsbury Press.
-
-Winstead, J. Lloyd. 2013. When Colleges Sang : The Story of Singing in American College Life. Tuscaloosa: University of Alabama Press.

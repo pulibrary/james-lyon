@@ -35,9 +35,11 @@ It is better to think of the confluence of James Lyon, Samuel Davies, and the Pr
 ## "Cheerful, fearless, and at ease"
 
 <figure class="left">
-<img src="{{ "/assets/images/cheerful.jpg" | relative_url }}" alt="“Commonplace book: Smith, Jonathan Bayard, 1742-1813.”">
+<a href=".uv1" data-featherlight><img src="{{ "/assets/images/cheerful.jpg" | relative_url }}" alt="“Commonplace book: Smith, Jonathan Bayard, 1742-1813.”"></a>
 <figcaption>“Commonplace book: Smith, Jonathan Bayard, 1742-1813.” (C0938 no. 481) Manuscripts Division, Department of Rare Books and Special Collections, Princeton University Library.</figcaption>
 </figure>
+
+<div class="uv uv1" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/uv_config.json" data-uri="/concern/scanned_resources/p5d86s848p/manifest?locale=en" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-9067,-400,24117,7999" data-rotation="0" style="width:calc(100vw - 200px); height:calc(100vh - 200px); background-color: #000;"></div><script type="text/javascript" id="embedUV" src="https://plum.princeton.edu/universalviewer/dist/uv-2.0.1/lib/embed.js"></script>
 
 News of college commencements often made it into the major newspapers of Boston, New York and Philadelphia. These articles would include the names of the graduates, the quality of the speakers, and sometimes the names of Colonial leaders who were in attendance. On October 1<sup>st</sup> 1759, the *New-York Mercury* not only included a general description of the ceremony, but also the text of Davies’ and Lyon’s ode beginning "Cheerful, fearless, and at ease." Given that the music still has not been found, this newspaper article has been our only source for this Commencement Ode. It is unclear from the article whether or not the text is complete; the final lines quoted are written “While Bernard makes the royal Virtues known, / In all their milder Charms. / Happy, &c. &c.” 
 
@@ -65,11 +67,11 @@ Here the second line is repeated as an echo, but shifted into a trochaic meter, 
 ## "Gentle Peace! With Mildest Rays"
 
 <figure class="right">
-<a href=".uv" data-featherlight><img src="{{ "/assets/images/peace.jpg" | relative_url }}" alt="An ode on peace / Davies, Samuel, 1723-1761."></a>
+<a href=".uv2" data-featherlight><img src="{{ "/assets/images/peace.jpg" | relative_url }}" alt="An ode on peace / Davies, Samuel, 1723-1761."></a>
 <figcaption>“An ode on peace / Davies, Samuel, 1723-1761.” (2003-0204Q) Rare Book Division, Department of Rare Books and Special Collections, Princeton University Library. (1760)</figcaption>
 </figure>
 
-<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/uv_config.json" data-uri="/concern/scanned_resources/p1z40pv48z/manifest?locale=en" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-9485,-400,24117,7999" data-rotation="0" style="width:calc(100vw - 200px); height:calc(100vh - 200px); background-color: #000;"></div><script type="text/javascript" id="embedUV" src="https://plum.princeton.edu/universalviewer/dist/uv-2.0.1/lib/embed.js"></script>
+<div class="uv uv2" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/uv_config.json" data-uri="/concern/scanned_resources/p1z40pv48z/manifest?locale=en" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-9485,-400,24117,7999" data-rotation="0" style="width:calc(100vw - 200px); height:calc(100vh - 200px); background-color: #000;"></div><script type="text/javascript" id="embedUV" src="https://plum.princeton.edu/universalviewer/dist/uv-2.0.1/lib/embed.js"></script>
 
 Lyon’s musical ode must have made a good impression the College trustees and other attendees of the 1759 commencement, since he ended up composing two more commencement odes the following year. These two pieces, an “Ode on Science” and an “Ode on Peace,” also made the papers after their performance on September 24<sup>th</sup> 1760.  This time Davies’ words were not initially printed; the presence of Thomas Boone Esq., then Colonial Governor of New Jersey, was far more newsworthy. Nonetheless, the October 9<sup>th</sup> *Pennsylvania Gazette* still notes that the “Ode on Science” was performed at the end of the morning exercises, and the “Ode of Peace” concluded the day “to the universal Pleasure and Satisfaction of a numerous Auditory.” In May of the following yearthe words to the “Ode to Science” were published in the *New-Hampshire Gazette*.
 

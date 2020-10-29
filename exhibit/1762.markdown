@@ -31,7 +31,9 @@ Lyon would also have needed very capable voices for the music he wrote in 1762. 
 <figcaption>Title page from “The Military Glory of Great Britain.” (2004-0652N) Rare Book Collection, Department of Rare Books and Special Collections, Princeton University Library. (Philadelphia, 1762)</figcaption>
 </figure>
 
-<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/uv_config.json" data-uri="/concern/scanned_resources/p73669668s/manifest?locale=en" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-9332,-402,24117,8000" data-rotation="0" style="width:calc(100vw - 200px); height:calc(100vh - 200px); background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://plum.princeton.edu/universalviewer/dist/uv-2.0.1/lib/embed.js"></script>
+<div class="uv" style="width:calc(100vw - 200px); height:calc(100vh - 200px); background-color: #000;">
+<iframe src="https://figgy.princeton.edu/viewer#?manifest=https://figgy.princeton.edu/concern/scanned_resources/1f427f4a-00d8-4cc0-bff4-a883bbc02a2f/manifest" allowfullscreen="allowfullscreen" style="width: 100%; height: 100%;"></iframe>
+</div> 
 
 From 1761, and the quasi-operatic commencement music composed by Francis Hopkinson, the closing entertainments at the Colleges in Princeton and Philadelphia started to go beyond standalone musical performances. They became political dramas with several actors and a series of musical interludes, primarily in the form of choruses. With “The Military Glory of Great Britain” in 1762 the political message, on the face of it, is clear. After an opening chorus proclaiming the power and glory of Great Britain the speakers enter in turn to give a poetic narrative of recent military victories. For the most part it is overblown imperialistic bombast; though, perhaps this is unsurprising given that French and Indian War was essentially over, with Great Britain as the clear victors. Perhaps more significantly the new Colonial Governor of New Jersey, Josiah Hardy, was in attendance as the previous Governor had been in 1760. 
 
